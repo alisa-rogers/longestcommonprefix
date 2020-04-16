@@ -13,7 +13,7 @@ function lcp (first, second) {
 console.log (lcp("abcdef", "abcdee"));
 console.log (lcp("abcdef", "abcddd"));
 console.log (lcp("abcdef", "abcccc"));
-console.log (lcp("abcdef", "aaaaaa"));
+console.log (lcp("abcdef", "abbbbb"));
 console.log (lcp("abcdef", "bbbbbb"));
 
 print(“Testing LCP for strings abcdef and abcdee”);
